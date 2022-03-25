@@ -1,0 +1,15 @@
+	|********************************************************|
+	|                  VEGETARIAN MENU                       |                    
+	|********************************************************|
+	|Food ID|              |  Name  |           |Price|      |
+	| 1                    Mushroom pate        Rs.140       |
+	| 2.                   Ginger soup          Rs.60        |
+	| 3.                   Sandwich             Rs.45        |
+	| 4.                   Mushroom wellington  Rs.150       |
+	| 5.                   Vegan tofu gnocchi   Rs.120       |
+	| 6.                   Tomato risotto       Rs.140       |
+	| 7.                   Vegan ratatouille    Rs.100       |
+	| 8.                   Sunchokes            Rs.120       |
+	| 9.                   Vegan steak          Rs.170       |
+	| 10.                  Back to main menu                 |
+	|********************************************************|        

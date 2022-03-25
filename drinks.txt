@@ -1,0 +1,15 @@
+		|*****************************************************|
+		|                    DrinksMenu                       |
+		|*****************************************************|
+		|Food ID|                | Name |         	|Price|
+		|   1.                    Lemon margarita         40  |
+		|   2.                    Long island             30  |
+		|   3.                    Frapuchinno            100  |
+		|   4.                    Blue margarita          80  |
+		|   5.                    Pebble's orange         90  |
+		|   6.                    Red wine               120  |
+		|   7.                    Champagne              150  |
+		|   8.                    White wine             100  |
+		|   9.                    Avalanche              100  |
+		|   10.                   Back to main menu           |
+		|*****************************************************|

@@ -1,0 +1,9 @@
+	|************************************************|
+	|                     Welcome                    |
+	|************************************************|
+	1. Vegetarian
+	2. Non Vegetarian
+	3. Drinks         
+	4. Fast food      
+	5. Back To Main Menu
+	Enter Your Choice -->

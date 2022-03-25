@@ -1,0 +1,8 @@
+	**************************************WELCOME************************************************
+	1. Add employee Record
+	2. Search employee Record
+	3. Delete employee Record
+	4. View all Record
+	5. View previous orders
+	6. Back To Main Menu
+	Enter Your Choice --->

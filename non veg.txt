@@ -1,0 +1,16 @@
+	|***********************************************|
+	|                 Non Veg. Menu                 |
+	|***********************************************|
+	|Food ID|                | Name |         |Price|
+	|   1.                    Beef ribs        1000 |
+	|   2.                    BBQ steak        1200 |
+	|   3.                    Chuck steak      140  |
+	|   4.                    Eye fillet       200  |
+	|   5.                    Steamed salmon   1600 |
+	|   6.                    Lamb shank       1200 |
+	|   7.                    Olive Wagyu      150  |
+	|   8.                    Shrimps          1800 |
+	|   9.                    Lobster          1100 |
+	|   10.                   Back to main menu     |
+	|***********************************************|
+	

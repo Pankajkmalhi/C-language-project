@@ -1,0 +1,16 @@
+		|*********************************************************|
+		|                 DrinksMenu                 	          |
+		|*********************************************************|
+		|Food ID|                | Name |         	    |Price|
+		|   1.                    Fried chiken                 220|
+		|   2.                    grilled chesse sandwich      200|
+		|   3.                    Animal fries                 100|
+		|   4.                    Pretzel burger               300|
+		|   5.                    FISH-O-FILLET                600|
+		|   6.                    Shawarma                      70|
+		|   7.                    Classic italian pizza        100|
+		|   8.                    King sized burger             60|
+		|   9.                    CHICK-O-FILLET               150|
+		|   10.                   Back to main menu               |
+		|*********************************************************|
+	
